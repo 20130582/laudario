@@ -1,11 +1,80 @@
-[TC Crânio]
-Sem evidências de hemorragia intracraniana aguda.
-Não há sinais de efeito expansivo ou desvio de linha média.
+Pâncreas - Cisto pancreático: Pâncreas de dimensões normais, contornos regulares e atenuação radiológica preservada, exceto por lesões císticas na região cauda, sendo a maior exofítica, medindo 18 mm.
 
-[USG Abdome]
-Fígado de dimensões preservadas, contornos regulares.
-Vesícula biliar sem cálculos ou espessamento parietal.
+Baço - Baço acessório: Baço acessório medindo 7 mm.
+Baço - Calcificações: Calcificações na face lateral da cápsula esplênica.
 
-[TC Tórax]
-Ausência de consolidações ou derrame pleural.
-Árvores brônquicas pérvias.
+Dispositivo - Dispositivo de infusão: Dispositivo de infusão medicamentosa no hemitórax direito com extremidade na transição atriocaval.
+Dispositivo - Port-a-Cath: Port-a-Cath na parede torácica esquerda com extremidade distal do cateter no átrio direito.
+
+Tireoide - Nódulo tireoidiano: Pequeno nódulo hipodenso no lobo tireoidiano direito, melhor avaliado por estudo dirigido.
+Tireoide - Cistos coloides: Cistos coloides bilaterais, o maior no terço médio do lobo esquerdo, medindo 6 mm.
+
+Tireoide - Cicatriz: Cicatriz cutânea cervical anterior decorrente de manipulação cirúrgica prévia.
+Tireoide - Tireoidectomia: Glândula tireoide não caracterizada (status pós-operatório). Loja tireoidiana livre.
+
+Aorta - Ateromatose: Discreta ateromatose aortocoronariana.
+Aorta - Ateromatose: Ateromatose aortoilíaca.
+Aorta - Ateromatose: Ateromatose aortocoronariana e dos vasos supraórticos.
+Aorta - Aneurisma: Aneurisma fusiforme da aorta infrarrenal com 47 x 42 mm (LLxCC), distando 35 mm da bifurcação das ilíacas.
+
+Mama - Mastectomia: Mastectomia direita e reconstrução com retalho miocutâneo e prótese com conteúdo anecoico, sem sinais de rotura.
+Mama - Cistos oleosos: Cistos oleosos subcicatriciais esparsos à esquerda, medindo até cerca de 8 mm.
+Mama - Calcificações: Calcificações grosseiras na mama direita.
+Mama - Pós-operatório: Cicatriz cutânea nos quadrantes laterais da mama esquerda com desorganização arquitetural do parênquima sobrejacente, contornos lobulados com pregas radiais.
+
+Linfonodos - Mediastinais: Linfonodos mediastinais proeminentes, inespecíficos e estáveis.
+Linfonodos - Axilares: Linfonodos proeminentes (não habituais) em ambas as axilas, medindo até 11 x 9 mm à esquerda (anterior 13 x 10 mm), sem configurar linfonodomegalias.
+Linfonodos - Pélvicos: Linfonodos não habituais pélvicos ilíacos internos e externos, ileocólicos e inguinais bilaterais, medindo até 10 x 10 mm na cadeia ileocólica (estáveis).
+Linfonodos - Hilos pulmonares: Linfonodos proeminentes nos hilos pulmonares e paratraqueal, medindo até 6 mm no menor eixo.
+
+Geniturinário - Útero/anexos: Útero e anexos não caracterizados (status pós-operatório).
+Geniturinário - Ovários: Ovários não visualizados por provável atrofia e interposição de alças intestinais.
+Geniturinário - Útero: Útero não caracterizado (status pós-cirúrgico). Loja uterina livre.
+Geniturinário - Próstata: Próstata com dimensões aumentadas, insinuando-se sobre o assoalho vesical.
+Parede abdominal - Hérnia umbilical: Diminuta hérnia umbilical, sem evidência de protrusão de seu conteúdo.
+
+Adrenal - Nódulo: Nódulo de 14 mm na haste lateral da adrenal direita. Adrenal esquerda tópica, de morfologia e densidade conservada.
+Adrenal - Adenoma: Adenoma (3 UH na fase pré contraste do exame de julho de 24) de 12 mm na haste medial da adrenal esquerda. Adrenal direita anatômica.
+Rim - Trombose veia renal: Trombose não oclusiva de veia renal direita.
+Rim - Cistos simples bilaterais: Cistos corticais em ambos os rins, medindo até 19 mm à esquerda (Bosniak I).
+Rim - Cisto simples: Cisto cortical em rim esquerdo medindo 10mm (Bosniak I).
+Rim - Cistos corticais: Contornos lobulados à custa de cistos corticais exofíticos bilaterais, medindo até 13 mm.
+Rim - Microlitíase renal: Cálculos calicinais renais bilaterais, pelo menos quatro à direita e seis à esquerda, medindo até 0,5 cm, não obstrutivos.
+Rim - Nefrolitíase: Cálculos hiperdensos, não obstrutivos, bilaterais, medindo até 6 mm no grupamento calicinal inferior esquerdo.
+Rim - Nefrocalcinose: Calcificações no parênquima renal bilateralmente, mais evidentes em região medular, podendo corresponder a nefrocalcinose incipiente.
+Rim - Cistos: Cistos corticais exofíticos no rim direito, o maior medindo 21 mm (Bosniak I).
+
+Pulmão - Opacidades reticulares: Discretas opacidades reticulares subpleurais e interlobulares predominando na porção posterior dos campos pulmonares inferiores.
+Pulmão - Aprisionamento aéreo: Presença de áreas de aprisionamento aéreo em segmentos apicais bilateralmente.
+Pulmão - Linfonodo intrapulmonar: Linfonodo intrapulmonar intrafissural à esquerda, medindo 6 mm.
+Pulmão - Alterações fibrocicatriciais: Alterações fibrocicatriciais apicais no lobo superior esquerdo e na língula, de provável natureza actínica.
+Pulmão - Bandas atelectásicas: Bandas atelectásicas dispersas pelo parênquima, predominando nas bases.
+Pulmão - Traves fibroatelectásicas: Traves fibroatelectásicas densas nas bases pulmonares.
+Pulmão - Nódulo escavado: Imagem nodular escavada no segmento basal anterior do lobo inferior direito, junto à fissura, 5 mm, estável.
+Pulmão - Linfonodos justafissurais: Pequenos linfonodos intrapulmonares justafissurais à esquerda, medindo até 4 mm.
+Pulmão - Cisto pulmonar: Pequeno cisto pulmonar / bolha enfisematosa subcentimétrica no lobo inferior direito.
+Pulmão - Pinçamentos pleuropulmonares: Pinçamentos pleuropulmonares bilaterais, mais exuberantes nos ápices, esboçando nódulo no ápice esquerdo com 14 mm.
+Pleura - Espessamento pleural: Espessamentos pleurais bilaterais, alguns de aspecto nodular, predominando nos ápices pulmonares, maior 17 mm, estáveis.
+Pulmão - Alterações fibroatelectásicas: Discretas alterações fibroatelectásicas em ápices pulmonares bilateralmente.
+Pulmão - Opacidades: Discretas opacidades na porção posterior dos campos pulmonares, que podem corresponder a opacidades decúbito-dependentes.
+
+Fígado/Vesícula - Vesícula biliar: Vesícula biliar não caracterizada (status pós-cirúrgico).
+Fígado - Esteatose hepática: Contornos regulares e atenuação radiológica difusa e acentuadamente reduzida, relacionada à infiltração gordurosa. Áreas focais mais densas, sem efeito de massa, provavelmente áreas focais de preservação, maior no segmento 4.
+Fígado - Nódulo hepático: Diminuta imagem nodular hipoatenuante no segmento VIII, medindo 6 mm, incaracterística, podendo corresponder a cisto.
+Fígado - Nódulos hepáticos: Houve surgimento de nódulos hepáticos hipovasculares (pelo menos 3), de aspecto neoplásico suspeito: segmento III (25 x 14 mm), segmento V (10 x 6 mm), segmento VI (10 x 10 mm).
+Fígado - Cisto hepático: Cisto no segmento IVa hepático, medindo 8 mm.
+Via biliar - Ducto colédoco: Ducto colédoco dilatado (7 mm).
+
+Ossos - Enostoses: Pequenos focos hiperdensos medulares nos ossos do quadril esquerdo, compatíveis com enostoses.
+Ossos - Esclerose focal: Esclerose focal no acetábulo direito, inespecífica.
+Coluna - Espondilose torácica: Espondilose torácica.
+Coluna - Alterações osteodegenerativas: Alterações osteodegenerativas.
+Coluna - Metástase: Corpo vertebral de L4 com 2 focos radiodensos, de aspecto indeterminado, sugerindo controle evolutivo, não se excluindo lesões secundárias.
+
+Parede abdominal - Hérnia epigástrica: Hérnias de parede abdominal no epigástrio (linha média) com protrusão de conteúdo adiposo, sem sinais inflamatórios.
+Parede abdominal - Diástase: Diástase do músculo retoabdominal infraumbilical.
+Parede abdominal - Hérnia incisional: Surgimento de volumosa hérnia incisional na parede abdominal anteroinferior, com protrusão de gordura abdominal e segmentos intestinais, sem sinais inflamatórios associados.
+Mama - Ginecomastia: Discreta ginecomastia bilateral simétrica.
+Mama - Mastectomia e expansor: Mastectomia esquerda com interposição de expansor mamário, sem particularidades ao método.
+Mama - Mastectomia e prótese: Mastectomia esquerda e reconstrução por prótese. Implante mamário à direita.
+Mama - Prótese: Mastectomia esquerda com interposição de expansor mamário, sem particularidades ao método.
