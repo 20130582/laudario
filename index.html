@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Laudário Radiologia</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      background: #f9f9f9;
+    }
+    h1 {
+      text-align: center;
+    }
+    #search {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-size: 16px;
+    }
+    .phrase {
+      background: white;
+      border: 1px solid #ddd;
+      padding: 10px;
+      margin-bottom: 8px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    .phrase:hover {
+      background: #eaf2ff;
+    }
+    .exam {
+      font-weight: bold;
+      color: #2c3e50;
+    }
+  </style>
+</head>
+<body>
+  <h1>📑 Laudário Radiologia</h1>
+  <input type="text" id="search" placeholder="Digite para buscar (ex: crânio, abdome, tórax)...">
+
+  <div id="results"></div>
+
+  <script>
+    let laudario = [];
+
+    async function carregarLaudario() {
+      // Pega o arquivo direto do mesmo repositório no GitHub
+      const response = await fetch("laudario.txt");
+      const text = await response.text();
+      laudario = parseTXT(text);
+      renderResults();
+    }
+
+    function parseTXT(text) {
+      const lines = text.split("\n");
+      const data = [];
+      let currentExam = null;
+
+      lines.forEach(line => {
+        line = line.trim();
+        if (line.startsWith("[") && line.endsWith("]")) {
+          currentExam = { exame: line.slice(1, -1), frases: [] };
+          data.push(currentExam);
+        } else if (line && currentExam) {
+          currentExam.frases.push(line);
+        }
+      });
+
+      return data;
+    }
+
+    const searchInput = document.getElementById("search");
+    const resultsDiv = document.getElementById("results");
+
+    function renderResults(query = "") {
+      resultsDiv.innerHTML = "";
+      laudario.forEach(item => {
+        item.frases.forEach(frase => {
+          if (
+            frase.toLowerCase().includes(query.toLowerCase()) ||
+            item.exame.toLowerCase().includes(query.toLowerCase())
+          ) {
+            const div = document.createElement("div");
+            div.classList.add("phrase");
+            div.innerHTML = `<span class="exam">${item.exame}:</span> ${frase}`;
+            div.onclick = () => {
+              navigator.clipboard.writeText(frase);
+              alert("Copiado para área de transferência!");
+            };
+            resultsDiv.appendChild(div);
+          }
+        });
+      });
+    }
+
+    searchInput.addEventListener("input", e => renderResults(e.target.value));
+
+    carregarLaudario();
+  </script>
+</body>
+</html>
